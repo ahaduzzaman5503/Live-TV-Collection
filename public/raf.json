@@ -1,0 +1,1332 @@
+[
+{"tvname":"ICELAND"},
+
+{"tvname":"SWEDEN HD & HEVC"},
+
+
+{"tvname":"SWEDEN SPORT HD & HEVC"},
+
+
+{"tvname":"SWEDEN TV 4 PLAY PPV"},
+
+
+{"tvname":"SWEDEN DISCOVERY+ PPV"},
+
+
+{"tvname":"SWEDEN DAZN PPV"},
+
+
+{"tvname":"SWEDEN DISCOVERY+ FOTBOOL"},
+
+
+{"tvname":"SWEDEN C MORE EVENT"},
+
+
+{"tvname":"SWEDEN PREMIUM PLAY"},
+
+
+{"tvname":"SWEDEN VIAPLAY PPV"},
+
+
+{"tvname":"DENMARK HD & HEVC"},
+
+
+{"tvname":"DENMARK SPORT HD & HEVC"},
+
+
+{"tvname":"DENMARK PREMIUM PLAY"},
+
+
+{"tvname":"DENMARK VIAPLAY PPV"},
+
+
+{"tvname":"DENMARK TV2 PLAY"},
+
+
+{"tvname":"DENMARK DISCOVERY+ PPV"},
+
+
+{"tvname":"DENMARK MOVIE PLAY"},
+
+
+{"tvname":"NORWAY VIAPLAY PPV"},
+
+
+{"tvname":"NORWAY DISCOVERY+ PPV"},
+
+
+{"tvname":"NORWAY HD & HEVC"},
+
+
+{"tvname":"NORWAY SPORT HD & HEVC"},
+
+
+{"tvname":"NORWAY PREMIUM PLAY"},
+
+
+{"tvname":"NORWAY TV2 PLAY"},
+
+
+{"tvname":"FINLAND HD & HEVC"},
+
+
+{"tvname":"FINLAND SPORT HD & HEVC"},
+
+
+{"tvname":"FINLAND PREMIUM PLAY"},
+
+
+{"tvname":"FINLAND VIAPLAY PPV"},
+
+
+{"tvname":"FR| FRANCE 4K"},
+
+
+{"tvname":"FR| FRANCE FHD"},
+
+
+{"tvname":"FR| FRANCE HD"},
+
+
+{"tvname":"FR| DOCUMENTAIRE HD"},
+
+
+{"tvname":"FR| FRANCE LQ"},
+
+
+{"tvname":"FR| ENFANTS HD"},
+
+
+{"tvname":"FR| AMAZON PRIME"},
+
+
+{"tvname":"FR| SPORTS HD"},
+
+
+{"tvname":"FR| MYSPORT PPV"},
+
+
+{"tvname":"FR| DAZN PPV"},
+
+
+{"tvname":"FR| PREMIUM PLAY"},
+
+
+{"tvname":"FR| CINE+ PREMIUM"},
+
+
+{"tvname":"FR| CARIBBEAN"},
+
+
+{"tvname":"US| ENTERTAINMENT"},
+
+
+{"tvname":"US| NEWS NETWORK"},
+
+
+{"tvname":"US| KIDS NETWORK"},
+
+
+{"tvname":"US| MOVIES NETWORK"},
+
+
+{"tvname":"US| PLUTO TV"},
+
+
+{"tvname":"US| SPORTS NETWORK"},
+
+
+{"tvname":"US| DAZN PPV"},
+
+
+{"tvname":"US| PARAMOUNT+ PPV"},
+
+
+{"tvname":"US| B1G+ PPV"},
+
+
+{"tvname":"US| PEACOCK PPV"},
+
+
+{"tvname":"US| BALLY NETWORK"},
+
+
+{"tvname":"US| NBA PACKAGE"},
+
+
+{"tvname":"US| NCAAF PACKAGE"},
+
+
+{"tvname":"US| NHL PACKAGE"},
+
+
+{"tvname":"US| NFL PACKAGE"},
+
+
+{"tvname":"US| MLB PACKAGE"},
+
+
+{"tvname":"US| MILB TV PPV"},
+
+
+{"tvname":"US| FLO SPORTS PPV"},
+
+
+{"tvname":"US| FITE TV PPV"},
+
+
+{"tvname":"US| DIRTVISION PPV"},
+
+
+{"tvname":"US| MLS NETWORK"},
+
+
+{"tvname":"US| FLO NETWORK"},
+
+
+{"tvname":"US| ABC NETWORK"},
+
+
+{"tvname":"US| CBS NETWORK"},
+
+
+{"tvname":"US| FOX NETWORK"},
+
+
+{"tvname":"US| NBC NETWORK"},
+
+
+{"tvname":"US| PBS NETWORK"},
+
+
+{"tvname":"US| CW/MY NETWORK"},
+
+
+{"tvname":"US| BIBLICAL/RELIGIOUS"},
+
+
+{"tvname":"US| CINEMANIA HOLLYWOOD"},
+
+
+{"tvname":"US| CINEMANIA TV SHOWS"},
+
+
+{"tvname":"US| STARZ NETWORK"},
+
+
+{"tvname":"US| PARAMOUNT+"},
+
+
+{"tvname":"US| AMC+ NETWORK"},
+
+
+{"tvname":"US| PEACOCK NETWORK"},
+
+
+{"tvname":"US| HBO MAX NETWORK"},
+
+
+{"tvname":"US| HULU NETWORK"},
+
+
+{"tvname":"US| NAT GEO+ NETWORK"},
+
+
+{"tvname":"US| DISNEY+ NETWORK"},
+
+
+{"tvname":"US| ESPN PLUS"},
+
+
+{"tvname":"US| ESPN PLAY"},
+
+
+{"tvname":"24/7 MOVIES & SERIES"},
+
+
+{"tvname":"NA| HOCKEY LEAGUE"},
+
+
+{"tvname":"NA| PPV & LIVE EVENTS"},
+
+
+{"tvname":"CA| ENGLISH"},
+
+
+{"tvname":"CA| FRENCH"},
+
+
+{"tvname":"CA| KIDS"},
+
+
+{"tvname":"CA| LOCALS"},
+
+
+{"tvname":"CA| SPORT"},
+
+
+{"tvname":"CA| SPORTSNET"},
+
+
+{"tvname":"CA| STINGRAY"},
+
+
+{"tvname":"CA| FOREIGN"},
+
+
+{"tvname":"CA| DAZN PPV"},
+
+
+{"tvname":"CA| AHL PPV"},
+
+
+{"tvname":"CA| QMJHL PPV"},
+
+
+{"tvname":"CA| OHL PPV"},
+
+
+{"tvname":"CA| WHL PPV"},
+
+
+{"tvname":"FORMULA 1 + MOTO GP"},
+
+
+{"tvname":"NL| ALGEMEEN"},
+
+
+{"tvname":"NL| SPORT"},
+
+
+{"tvname":"NL| VIAPLAY PPV VIP"},
+
+
+{"tvname":"NL| VIAPLAY SPORT"},
+
+
+{"tvname":"NL| ESPN PLAY"},
+
+
+{"tvname":"NL| DISCOVERY+ PPV"},
+
+
+{"tvname":"NL| FILMS"},
+
+
+{"tvname":"NL| KINDEREN"},
+
+
+{"tvname":"NL| ENTERTAINMENT"},
+
+
+{"tvname":"NL| DOCUMENTAIRE"},
+
+
+{"tvname":"NL| MUZIEK"},
+
+
+{"tvname":"NL| REGIONAAL"},
+
+
+{"tvname":"NL| BUITENLAND"},
+
+
+{"tvname":"EU| NEDERLAND ULTRA 4K"},
+
+
+{"tvname":"EU| NETHERLANDS SD"},
+
+
+{"tvname":"BE| ALGEMEEN"},
+
+
+{"tvname":"BE| ENTERTAINMENT"},
+
+
+{"tvname":"BE| KINDEREN"},
+
+
+{"tvname":"BE| SPORTS"},
+
+
+{"tvname":"BE| DOCUMENTAIRE"},
+
+
+{"tvname":"BE| WALLONIË"},
+
+
+{"tvname":"BE| DAZN EXCLUSIVE"},
+
+
+{"tvname":"BE| DAZN PPV"},
+
+
+{"tvname":"EU| LUXEMBOURG"},
+
+
+{"tvname":"ES| GENERAL"},
+
+
+{"tvname":"ES| PELÍCULAS"},
+
+
+{"tvname":"24/7 ESPANA 4K"},
+
+
+{"tvname":"ES| DEPORTE"},
+
+
+{"tvname":"ES| DAZN"},
+
+
+{"tvname":"ES| DAZN PPV"},
+
+
+{"tvname":"ES| FEF TV EVENTOS"},
+
+
+{"tvname":"ES| CULTURALES"},
+
+
+{"tvname":"ES| NINIOS"},
+
+
+{"tvname":"ES| LOCALES"},
+
+
+{"tvname":"ES| MUSICA"},
+
+
+{"tvname":"PT| GENERALISTAS"},
+
+
+{"tvname":"PT| NOTICIAS"},
+
+
+{"tvname":"PT| DESPORTO"},
+
+
+{"tvname":"PT| FILMES E SÉRIES"},
+
+
+{"tvname":"PT| EXCLUSIVO"},
+
+
+{"tvname":"PT| CULTURA"},
+
+
+{"tvname":"PT| CRIANCAS"},
+
+
+{"tvname":"PT| INTRETENIMENTO"},
+
+
+{"tvname":"PT| RELIGIAO"},
+
+
+{"tvname":"PT| MUSICA"},
+
+
+{"tvname":"PT| INTERNACIONAL"},
+
+
+{"tvname":"PT| DAZN PPV"},
+
+
+{"tvname":"BR| BRASIL"},
+
+
+{"tvname":"BR| BRASIL DAZN PPV"},
+
+
+{"tvname":"EU| GERMANY HEVC"},
+
+
+{"tvname":"DE| ALLGEMEIN"},
+
+
+{"tvname":"DE| KINDER"},
+
+
+{"tvname":"DE| UNTERHALTUNG"},
+
+
+{"tvname":"DE| VODAFONE GO"},
+
+
+{"tvname":"DE| DYN NETWORK"},
+
+
+{"tvname":"DE| SKY GO FILME"},
+
+
+{"tvname":"DE| SKY MAX PPV 4K"},
+
+
+{"tvname":"DE| FILME UND SERIEN"},
+
+
+{"tvname":"DE| PREMIUM PLAY"},
+
+
+{"tvname":"DE| PLEX TV"},
+
+
+{"tvname":"DE| DAZN PPV"},
+
+
+{"tvname":"DE| DISCOVERY+ PPV"},
+
+
+{"tvname":"DE| AMAZON PRIME"},
+
+
+{"tvname":"DE| MYSPORT PPV"},
+
+
+{"tvname":"DE| AMAZON PRIME PPV"},
+
+
+{"tvname":"DE| SPORTS"},
+
+
+{"tvname":"DE| BUNDESLIGA"},
+
+
+{"tvname":"DE| RTL+ PPV"},
+
+
+{"tvname":"DE| MAGENTA PPV"},
+
+
+{"tvname":"DE| BUNDESLIGA REPLAY"},
+
+
+{"tvname":"DE| SKY GO SPORT"},
+
+
+{"tvname":"DE| SKY GO KINO"},
+
+
+{"tvname":"SWITZERLAND"},
+
+
+{"tvname":"AUSTRIA"},
+
+
+{"tvname":"CH| DAZN PPV"},
+
+
+{"tvname":"AT| DAZN PPV"},
+
+
+{"tvname":"PL| KANAŁY (NA)"},
+
+
+{"tvname":"PL| OGÓLNOTEMATYCZNE"},
+
+
+{"tvname":"PL| FILMOWE"},
+
+
+{"tvname":"PL| KANAŁY TVN PLAYER"},
+
+
+{"tvname":"PL| DLA DZIECI"},
+
+
+{"tvname":"PL| DOKUMENTALNE"},
+
+
+{"tvname":"PL| SPORTOWE"},
+
+
+{"tvname":"PL| INFORMACYJNE"},
+
+
+{"tvname":"PL| MUZYCZNE"},
+
+
+{"tvname":"PL| REGIONALNE"},
+
+
+{"tvname":"PL| VIAPLAY PPV VIP"},
+
+
+{"tvname":"PL| VIAPLAY"},
+
+
+{"tvname":"PL| EUROSPORT EXTRA"},
+
+
+{"tvname":"PL| WALKI PPV"},
+
+
+{"tvname":"UK| GENERAL"},
+
+
+{"tvname":"UK| NEWS"},
+
+
+{"tvname":"UK| KIDS"},
+
+
+{"tvname":"UK| ENTERTAINMENT"},
+
+
+{"tvname":"UK| MOVIES"},
+
+
+{"tvname":"UK| DOCUMENTARY"},
+
+
+{"tvname":"UK| SKY STORE"},
+
+
+{"tvname":"UK| MUSIC"},
+
+
+{"tvname":"UK| DISCOVERY +"},
+
+
+{"tvname":"UK| DISCOVERY + PPV"},
+
+
+{"tvname":"UK| ESPN+ PPV"},
+
+
+{"tvname":"UK| DAZN PPV"},
+
+
+{"tvname":"UK| SPORTS"},
+
+
+{"tvname":"UK| WORLD SPORTS"},
+
+
+{"tvname":"UK| SOCCER REPLAY"},
+
+
+{"tvname":"UK| UFC/BOXING PPV"},
+
+
+{"tvname":"UK| OTHER SPORTS"},
+
+
+{"tvname":"UK| EPL PREMIERE LEAGUE"},
+
+
+{"tvname":"UK| SKY SPORTS RED BUTTON"},
+
+
+{"tvname":"UK| VIDIO EPL PPV"},
+
+
+{"tvname":"UK| CHAMPIONSHIP"},
+
+
+{"tvname":"UK| LEAGUE ONE"},
+
+
+{"tvname":"UK| LEAGUE TWO"},
+
+
+{"tvname":"UK| NATIONAL LEAGUE"},
+
+
+{"tvname":"UK| SCOTTISH FOOTBALL"},
+
+
+{"tvname":"UK| FA PLAYER"},
+
+
+{"tvname":"UK| GAA GO PPV"},
+
+
+{"tvname":"UK| AMAZON PRIME +"},
+
+
+{"tvname":"UK| FORMULA 1 + MOTOGP"},
+
+
+{"tvname":"UK| LA LIGA TEAM PPV"},
+
+
+{"tvname":"UK| SERIE A TEAM PPV"},
+
+
+{"tvname":"UK| ULSTER GAA PPV"},
+
+
+{"tvname":"UK| RUGBY PPV"},
+
+
+{"tvname":"UK| EUROSPORT XTRA"},
+
+
+{"tvname":"UK| VIAPLAY PPV"},
+
+
+{"tvname":"UK| PAY PER VIEW PPV"},
+
+
+{"tvname":"UK| 24/7 MOVIES & SERIES"},
+
+
+{"tvname":"UK| SUPERCROSS PPV"},
+
+
+{"tvname":"UK| PPV EVENTS"},
+
+
+{"tvname":"UK| HUB PREMIER PPV"},
+
+
+{"tvname":"UK| MATCHROOM PPV"},
+
+
+{"tvname":"UK| MOLA PPV"},
+
+
+{"tvname":"IR| IRELAND"},
+
+
+{"tvname":"IR| NIFL PPV"},
+
+
+{"tvname":"IR| CLUBBER PPV"},
+
+
+{"tvname":"IR| SETANTA PPV"},
+
+
+{"tvname":"IR| LOI PPV"},
+
+
+{"tvname":"CHRISTMAS"},
+
+
+{"tvname":"AUSTRALIA"},
+
+
+{"tvname":"AU| NRL TV PPV"},
+
+
+{"tvname":"AU| STAN PPV"},
+
+
+{"tvname":"AU| ESPN PLAY PPV"},
+
+
+{"tvname":"NZ| NEW ZEALAND"},
+
+
+{"tvname":"NZ| SKY SPORTS NZ"},
+
+
+{"tvname":"ITALY UHD/4K"},
+
+
+{"tvname":"ITALY FHD/HEVC"},
+
+
+{"tvname":"IT| GENERALE"},
+
+
+{"tvname":"IT| REGIONALI"},
+
+
+{"tvname":"IT| CINEMA"},
+
+
+{"tvname":"IT| AMAZON PRIME"},
+
+
+{"tvname":"IT| SKYGO SPORTS"},
+
+
+{"tvname":"IT| DAZN"},
+
+
+{"tvname":"IT| SPORT"},
+
+
+{"tvname":"IT| DISCOVERY+"},
+
+
+{"tvname":"IT| BAMBINI"},
+
+
+{"tvname":"IT| DOCUMENTARIO"},
+
+
+{"tvname":"IT| BASKET"},
+
+
+{"tvname":"IT| FORMULA 1 / MOTOGP"},
+
+
+{"tvname":"IT| PLUTO TV"},
+
+
+{"tvname":"IT| SERIE A/B/C"},
+
+
+{"tvname":"TR| TURKIYE"},
+
+
+{"tvname":"TR| AVRUPA & YEREL"},
+
+
+{"tvname":"TR| HABER KANALLARI"},
+
+
+{"tvname":"TR| MUZIK KANALLARI"},
+
+
+{"tvname":"TR| COCUK & DINI"},
+
+
+{"tvname":"TR| BELGESEL KANALLARI"},
+
+
+{"tvname":"TR| SINEMA KANALLARI"},
+
+
+{"tvname":"TR| SPOR KANALLARI"},
+
+
+{"tvname":"TR| MAC KANALLARI"},
+
+
+{"tvname":"TR| DIZILER VIP"},
+
+
+{"tvname":"AZERBAYCAN"},
+
+
+{"tvname":"UZBEKISTAN"},
+
+
+{"tvname":"KURDISTAN"},
+
+
+{"tvname":"ARABIC AM +6H"},
+
+
+{"tvname":"AR| MOROCCO"},
+
+
+{"tvname":"AR| ALGERIA"},
+
+
+{"tvname":"AR| TUNISIA"},
+
+
+{"tvname":"AR| MBC/ROTANA"},
+
+
+{"tvname":"AR| OSN"},
+
+
+{"tvname":"AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ"},
+
+
+{"tvname":"AR| BEIN SPORTS ASIAN CUP"},
+
+
+{"tvname":"AR| BEIN SPORTS AFCON"},
+
+
+{"tvname":"AR| BEIN SPORTS 8K ᵁᴴᴰ"},
+
+
+{"tvname":"AR| BEIN SPORTS ᵁᴴᴰ"},
+
+
+{"tvname":"AR| BEIN SPORTS FHD"},
+
+
+{"tvname":"AR| BEIN SPORTS HEVC"},
+
+
+{"tvname":"AR| BEIN SPORTS HD"},
+
+
+{"tvname":"AR| BEIN SPORTS SD"},
+
+
+{"tvname":"AR| BEIN ENTERTAINMENT"},
+
+
+{"tvname":"AR| ALKASS"},
+
+
+{"tvname":"AR| STARZPLAY / AD SPORTS"},
+
+
+{"tvname":"AR| SSC SPORTS"},
+
+
+{"tvname":"AR| NEWS"},
+
+
+{"tvname":"AR| KIDS"},
+
+
+{"tvname":"AR| UAE"},
+
+
+{"tvname":"AR| ISLAMIC"},
+
+
+{"tvname":"AR| AL-MAJD GROUP"},
+
+
+{"tvname":"AR| EGYPT"},
+
+
+{"tvname":"AR| SYRIA"},
+
+
+{"tvname":"AR| LEBANON"},
+
+
+{"tvname":"AR| IRAQ"},
+
+
+{"tvname":"AR| JORDAN"},
+
+
+{"tvname":"AR| PALASTINA"},
+
+
+{"tvname":"AR| MAURITANIA"},
+
+
+{"tvname":"AR| SUDAN"},
+
+
+{"tvname":"AR| LIBYA"},
+
+
+{"tvname":"AR| SAUDIA ARABIA"},
+
+
+{"tvname":"AR| OMAN"},
+
+
+{"tvname":"AR| BAHRAIN"},
+
+
+{"tvname":"AR| QATAR"},
+
+
+{"tvname":"AR| KUWAIT"},
+
+
+{"tvname":"AR| YEMEN"},
+
+
+{"tvname":"AR| SHAHID. VIP"},
+
+
+{"tvname":"AR| SHAHID SERIES"},
+
+
+{"tvname":"AR| SHAHID. CINEMA"},
+
+
+{"tvname":"AR| WEYYAK"},
+
+
+{"tvname":"AR| WATCHBOX 4K"},
+
+
+{"tvname":"AR| MAJESTIC 4K"},
+
+
+{"tvname":"AR| ACTORS 4K"},
+
+
+{"tvname":"AR| ROYA"},
+
+
+{"tvname":"AR| NETFLIX"},
+
+
+{"tvname":"AR| AMAZON PRIME"},
+
+
+{"tvname":"AR| HBO"},
+
+
+{"tvname":"AR| HULU"},
+
+
+{"tvname":"AR| TOD"},
+
+
+{"tvname":"AR| VIVO"},
+
+
+{"tvname":"AR| APPLE+ MLS PPV"},
+
+
+{"tvname":"AR| SHOOF DRAMA"},
+
+
+{"tvname":"AR| SHOOF COMEDY"},
+
+
+{"tvname":"AR| STARZ PLAY"},
+
+
+{"tvname":"AR| WORLD OF COOKING"},
+
+
+{"tvname":"AR| CHEF OMAR"},
+
+
+{"tvname":"AR| ANGHAMI"},
+
+
+{"tvname":"AR| MUSIC"},
+
+
+{"tvname":"AR| CHRISTIAN"},
+
+
+{"tvname":"AR| BOX OFFICE FHD"},
+
+
+{"tvname":"AR| SHOWTIME"},
+
+
+{"tvname":"AR| BEIN ONDEMAND"},
+
+
+{"tvname":"AR| WATCH IT"},
+
+
+{"tvname":"AFR| AZAM NETWORK"},
+
+
+{"tvname":"AFR| CANAL+"},
+
+
+{"tvname":"AFR| GENERAL"},
+
+
+{"tvname":"AFR| SOMALI"},
+
+
+{"tvname":"AFR| DSTV NETWORK"},
+
+
+{"tvname":"ARMENIA"},
+
+
+{"tvname":"GR| GREECE DIGEA"},
+
+
+{"tvname":"CY| CYPRUS GENERAL"},
+
+
+{"tvname":"GREECE / CYPRUS"},
+
+
+{"tvname":"GR| GREECE CINEMA"},
+
+
+{"tvname":"GR| GREECE SPORTS"},
+
+
+{"tvname":"CY| CYPRUS LEAGUE"},
+
+
+{"tvname":"GREECE PREMIUM VIP"},
+
+
+{"tvname":"GREECE 24/7"},
+
+
+{"tvname":"MALTA"},
+
+
+{"tvname":"CRB| CARIBBEAN"},
+
+
+{"tvname":"CRB| ESPN PLAY PPV"},
+
+
+{"tvname":"LAT| GENERAL"},
+
+
+{"tvname":"LAT| VENEZULA"},
+
+
+{"tvname":"LAT| PANAMA"},
+
+
+{"tvname":"LAT| GUATEMALA"},
+
+
+{"tvname":"LAT| NICARAGUA"},
+
+
+{"tvname":"LAT| HONDURAS"},
+
+
+{"tvname":"LAT| ARGENTINA"},
+
+
+{"tvname":"LAT| CHILE"},
+
+
+{"tvname":"LAT| COLOMBIA"},
+
+
+{"tvname":"LAT| PERU"},
+
+
+{"tvname":"LAT| COSTA RICA"},
+
+
+{"tvname":"LAT| R. DOMINICANA"},
+
+
+{"tvname":"LAT| ECUADOR"},
+
+
+{"tvname":"LAT| ECUADOR DAZN PPV"},
+
+
+{"tvname":"LAT| PELICULA"},
+
+
+{"tvname":"LAT| EL SALVADOR"},
+
+
+{"tvname":"LAT| MEXICO"},
+
+
+{"tvname":"LAT| URUGUAY"},
+
+
+{"tvname":"ALBANIA"},
+
+
+{"tvname":"KOSOVO"},
+
+
+{"tvname":"SLOVENIA"},
+
+
+{"tvname":"BOSNIA"},
+
+
+{"tvname":"SERBIA"},
+
+
+{"tvname":"CROATIA"},
+
+
+{"tvname":"MACEDONIA"},
+
+
+{"tvname":"MONTENEGRO"},
+
+
+{"tvname":"EXYU| SPORTSKI KANALI"},
+
+
+{"tvname":"EXYU| PINK MEDIA"},
+
+
+{"tvname":"EXYU| FILMSKI KANALI"},
+
+
+{"tvname":"EXYU| MUZICKI KANALI"},
+
+
+{"tvname":"EXYU| DOKUMENTARNI"},
+
+
+{"tvname":"EXYU| DJECJI KANALI"},
+
+
+{"tvname":"EXYU| 24/7"},
+
+
+{"tvname":"ISRAEL VIP"},
+
+
+{"tvname":"ISRAEL HD"},
+
+
+{"tvname":"LITHUANIA"},
+
+
+{"tvname":"LATVIA"},
+
+
+{"tvname":"ESTONIA"},
+
+
+{"tvname":"HUNGARY"},
+
+
+{"tvname":"CZ| GENERAL"},
+
+
+{"tvname":"CZ| NOVA"},
+
+
+{"tvname":"CZ| PRIMA"},
+
+
+{"tvname":"CZ| ZÁBAVA"},
+
+
+{"tvname":"CZ| SPORTS"},
+
+
+{"tvname":"CZ| HUDBA"},
+
+
+{"tvname":"CZ| DĚTI"},
+
+
+{"tvname":"CZ| KULTURNÍ"},
+
+
+{"tvname":"ROMANIA"},
+
+
+{"tvname":"BULGARIA"},
+
+
+{"tvname":"RUSSIA"},
+
+
+{"tvname":"UKRAINE"},
+
+
+{"tvname":"GEORGIA"},
+
+
+{"tvname":"KAZACHSTAN"},
+
+
+{"tvname":"IRAN"},
+
+
+{"tvname":"AFGHANISTAN"},
+
+
+{"tvname":"ASIA | PREMIUM VIP"},
+
+
+{"tvname":"ASIA | INDIA EU"},
+
+
+{"tvname":"ASIA | INDIA"},
+
+
+{"tvname":"ASIA | PAKISTAN"},
+
+
+{"tvname":"ASIA | ENGLISH"},
+
+
+{"tvname":"ASIA | TAMIL"},
+
+
+{"tvname":"ASIA | SPORTS"},
+
+
+{"tvname":"ASIA | PUNJABI"},
+
+
+{"tvname":"ASIA | GUJARATI/ASSAM"},
+
+
+{"tvname":"ASIA | MALAYALAM"},
+
+
+{"tvname":"ASIA | MARATHI"},
+
+
+{"tvname":"ASIA | TELEGU"},
+
+
+{"tvname":"ASIA | KANNADA"},
+
+
+{"tvname":"ASIA | SINHALA"},
+
+
+{"tvname":"ASIA | BENGALI/BANGLA"},
+
+
+{"tvname":"ASIA | BHOJPURI/ODISHA"},
+
+
+{"tvname":"NEPAL"},
+
+
+{"tvname":"BANGLADESH"},
+
+
+{"tvname":"SINGAPORE"},
+
+
+{"tvname":"CHINA / HONGKONG"},
+
+
+{"tvname":"SOUTH KOREA"},
+
+
+{"tvname":"INDONESIA"},
+
+
+{"tvname":"MYANMAR C+"},
+
+
+{"tvname":"THAILAND"},
+
+
+{"tvname":"TAIWAN"},
+
+
+{"tvname":"VIETNAM"},
+
+
+{"tvname":"MALAYSIA"},
+
+
+{"tvname":"JP| DAZN PPV"},
+
+
+{"tvname":"JAPAN"},
+
+
+{"tvname":"PHILIPPINES"},
+
+
+{"tvname":"MU| MUSIC CONCERTS"},
+
+
+{"tvname":"SU| SURINAME"},
+
+
+{"tvname":"WORLD CRICKET"},
+
+
+{"tvname":"HORSE RACING"},
+
+
+{"tvname":"VP| VIAPLAY PPV [MULTI AUDIO]"}
+
+]
